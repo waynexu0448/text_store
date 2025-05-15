@@ -1,5 +1,3 @@
-# text_store 欢迎来到我的第一个网页
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
