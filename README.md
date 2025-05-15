@@ -1,1 +1,33 @@
-# text_store
+# text_store 欢迎来到我的第一个网页
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>我的第一个网页</title>
+    <style>
+        body {
+            background-color: lightblue;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>欢迎来到我的网站！</h1>
+    <p>这是我的第一个网页，好激动！</p>
+    <img src="https://via.placeholder.com/300x200" alt="示例图片">
+    <!-- 之前的代码 -->
+    <button onclick="alert('你好！欢迎访问！')">点击这里</button>
+    <script>
+        // 这里是JavaScript代码
+        console.log("网页加载完成！");
+    </script>
+</body>
+</html>
